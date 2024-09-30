@@ -66,6 +66,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 ## Contato
 Para mais informações ou perguntas, entre em contato:
 
-LinkedIn: [Vinicius Bertotto](https://www.linkedin.com/in/vinicius-bertotto/)
-GitHub: vbertotto
-Website: [bertotto.online](https://bertotto.online/)
+- LinkedIn: [Vinicius Bertotto](https://www.linkedin.com/in/vinicius-bertotto/)
+- GitHub: vbertotto
+- Website: [bertotto.online](https://bertotto.online/)
