@@ -63,4 +63,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 ```
+## Contato
+Para mais informações ou perguntas, entre em contato:
 
+LinkedIn: Vinicius Bertotto
+GitHub: vbertotto
+Website: bertotto.online
